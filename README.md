@@ -32,14 +32,6 @@ yarn
 
 2. Copy the `RPC SERVER` sting in your ganache CLI, and place it into your `.env` file similar to what's in `.env.example`.
 
-<img src="./img/ganache-http.png" alt="ganache" width="500"/>
-
-`.env` Example:
-
-```
-RPC_URL=http://0.0.0.0:8545
-```
-
 3. Hit the key on one of the accounts, and copy the key you see and place it into your `.env` file, similar to what you see in `.env.example`.
 
 
